@@ -7,9 +7,9 @@
 		"activityBar.background": "#0f1216",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#6b7280",
-		"activityBar.activeBorder": "#3b82f6",
+		"activityBar.activeBorder": "#ce3bf6",
 		"activityBar.activeBackground": "#1e293b20",
-		"activityBarBadge.background": "#3b82f6",
+		"activityBarBadge.background": "#ce3bf6",
 		"activityBarBadge.foreground": "#ffffff",
 		
 		"sideBar.background": "#151922",
@@ -57,7 +57,7 @@
 		"terminal.ansiCyan": "#06b6d4",
 		"terminal.ansiWhite": "#f8fafc",
 		
-		"editor.lineHighlightBackground": "#1f293720",
+		"editor.lineHighlightBackground": "#415571",
 		"editor.selectionBackground": "#3b82f640",
 		"editor.inactiveSelectionBackground": "#37415120",
 		"editor.findMatchBackground": "#f59e0b50",
@@ -65,10 +65,10 @@
 		"editor.wordHighlightBackground": "#6b728030",
 		"editor.wordHighlightStrongBackground": "#6b728050",
 		
-		"editorCursor.foreground": "#3b82f6",
+	    "editorCursor.foreground": "#c3b3e1",
 		"editorWhitespace.foreground": "#4b5563",
 		"editorIndentGuide.background": "#374151",
-		"editorIndentGuide.activeBackground": "#6b7280",
+		"editorIndentGuide.activeBackground": "#456cb4",
 		"editorRuler.foreground": "#374151",
 		"editorLineNumber.foreground": "#94a3b8",
 		"editorLineNumber.activeForeground": "#cbd5e1",
@@ -282,7 +282,22 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#34d399"
+				"foreground": "#de68d5"
+			}
+		},
+		{
+			"name": "HTML Tag Content",
+			"scope": [
+				"text.html",
+				"text.html.basic",
+				"text.html meta.tag",
+				"text.html string.quoted",
+				"meta.tag.other.html",
+				"meta.tag.inline.any.html",
+				"meta.tag.block.any.html"
+			],
+			"settings": {
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -305,7 +320,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#fbbf24"
+				"foreground": "#f1c149"
 			}
 		},
 		{
@@ -436,7 +451,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#4ade80"
+				"foreground": "#dead4a"
 			}
 		},
 		{
@@ -510,7 +525,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#22d3ee"
+				"foreground": "#3fb2c4"
 			}
 		},
 		{
