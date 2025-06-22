@@ -2,10 +2,10 @@
 
 > A beautifully crafted dark theme designed for developers who value clarity, color harmony, and focus in their code editor.
 
-![made in](https://img.shields.io/badge/made%20by-Aqsa-8e44ad?style=flat-square)
-![Version](https://img.shields.io/badge/Version-v0.0.3-purple)
-![Installs](https://img.shields.io/badge/Installs-2-blue)
-![Rating](https://img.shields.io/badge/Rating-★★★★★-brightgreen)
+![made in](https://img.shields.io/badge/made%20by-Aqsa-8e44ad?style=flat-square)(https://marketplace.visualstudio.com/items?itemName=aqsa.syntax-palette)
+![Version](https://img.shields.io/badge/Version-v0.0.3-purple)(https://marketplace.visualstudio.com/items?itemName=aqsa.syntax-palette)
+![Installs](https://img.shields.io/badge/Installs-2-blue)(https://marketplace.visualstudio.com/items?itemName=aqsa.syntax-palette)
+![Rating](https://img.shields.io/badge/Rating-★★★★★-brightgreen)(https://marketplace.visualstudio.com/items?itemName=aqsa.syntax-palette)
 
 
 ---
