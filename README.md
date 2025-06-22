@@ -1,16 +1,27 @@
-# syntax-palette README
+# Syntax Palette – A Color Theme for Code Creators
 
-## Working with Markdown
+> A beautifully crafted dark theme designed for developers who value clarity, color harmony, and focus in their code editor.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![made in](https://img.shields.io/badge/made%20by-Aqsa-8e44ad?style=flat-square)
+![Marketplace](https://vsmarketplacebadge.apphb.com/version-short/aqsa.syntax-palette.svg)
+![Installs](https://vsmarketplacebadge.apphb.com/installs/aqsa.syntax-palette.svg)
+![Rating](https://vsmarketplacebadge.apphb.com/rating/aqsa.syntax-palette.svg)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+---
 
-## For more information
+## ✨ Install
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+To install the theme, open your command palette with:
 
-**Enjoy!**
+**Screenshots**
+
+![Syntax Palette Preview](https://raw.githubusercontent.com/Bacteria007/syntax-palette/main/assets/preview1.png)
+
+## 🧪 Feedback & Contributions
+
+Have suggestions or ideas to make the theme better?  
+Feel free to contribute or open an issue on [GitHub](https://github.com/Bacteria007/syntax-palette/issues).
+
+---
+
+**Happy Coding with Syntax Palette!**
