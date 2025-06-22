@@ -2,7 +2,7 @@
   "name": "syntax-palette",
   "displayName": "Syntax Palette – A Color Theme for Code Creators",
   "description": "A beautifully crafted dark theme designed for developers who value clarity, color harmony, and focus in their code editor.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "keywords": [
     "vscode-theme",
     "syntax highlighting",
@@ -10,7 +10,9 @@
     "color palette",
     "developer theme",
     "code theme",
-    "syntax palette"
+    "syntax palette",
+    "color scheme",
+    "vscode extension"
   ],
   "icon": "assets/syntax-palette-icon.png",
   "publisher": "aqsa",
