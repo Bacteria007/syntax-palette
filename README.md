@@ -3,9 +3,10 @@
 > A beautifully crafted dark theme designed for developers who value clarity, color harmony, and focus in their code editor.
 
 ![made in](https://img.shields.io/badge/made%20by-Aqsa-8e44ad?style=flat-square)
-![Marketplace](https://vsmarketplacebadge.apphb.com/version-short/aqsa.syntax-palette.svg)
-![Installs](https://vsmarketplacebadge.apphb.com/installs/aqsa.syntax-palette.svg)
-![Rating](https://vsmarketplacebadge.apphb.com/rating/aqsa.syntax-palette.svg)
+![Version](https://img.shields.io/badge/Version-v0.0.3-purple)
+![Installs](https://img.shields.io/badge/Installs-2-blue)
+![Rating](https://img.shields.io/badge/Rating-★★★★★-brightgreen)
+
 
 ---
 
