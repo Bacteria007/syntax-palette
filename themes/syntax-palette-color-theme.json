@@ -67,8 +67,8 @@
 		
 	    "editorCursor.foreground": "#c3b3e1",
 		"editorWhitespace.foreground": "#4b5563",
-		"editorIndentGuide.background": "#374151",
-		"editorIndentGuide.activeBackground": "#456cb4",
+		"editorIndentGuide.background1": "#374151",
+		"editorIndentGuide.activeBackground1": "#456cb4",
 		"editorRuler.foreground": "#374151",
 		"editorLineNumber.foreground": "#94a3b8",
 		"editorLineNumber.activeForeground": "#cbd5e1",
