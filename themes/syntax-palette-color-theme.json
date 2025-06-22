@@ -57,8 +57,8 @@
 		"terminal.ansiCyan": "#06b6d4",
 		"terminal.ansiWhite": "#f8fafc",
 		
-		"editor.lineHighlightBackground": "#3b83f620",
-		"editor.selectionBackground": "#3b82f640",
+		"editor.lineHighlightBackground": "#1a6ef520",
+		"editor.selectionBackground": "#5090f774",
 		"editor.inactiveSelectionBackground": "#37415120",
 		"editor.findMatchBackground": "#f59e0b50",
 		"editor.findMatchHighlightBackground": "#f59e0b30",
