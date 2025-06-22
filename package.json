@@ -33,5 +33,9 @@
         "path": "./themes/syntax-palette-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bacteria007/syntax-palette.git"
   }
 }
